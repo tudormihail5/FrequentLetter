@@ -13,4 +13,4 @@ This is a basic Java application, that outputs the letter that starts the most w
 
 ### Challenges I ran into:
 
-
+Initially, I thought words can only be preceded by space, but after carefully reading the specification, I realised I was wrong. So words could only be preceded by space, '"', ''', '_', '(', '<', '{', and '['. Brackets and quotes were a bit confusing, because I was first thinking only at '(' and '''.
